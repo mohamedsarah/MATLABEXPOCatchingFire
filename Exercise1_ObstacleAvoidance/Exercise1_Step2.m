@@ -1,5 +1,5 @@
 %% This script is created for
-%% GHC22 - Catching Fire:Using Drones to Detect and Track Wildfires
+%% Catching Fire: Using Drones to Detect and Track Wildfires
 %% Date - 24 Aug 2022
 
 

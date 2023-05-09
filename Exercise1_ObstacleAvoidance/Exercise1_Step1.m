@@ -229,7 +229,7 @@ classdef Exercise1_Step1 < matlab.apps.AppBase
             app.GHC2022CatchingFireLabel.FontName = 'Arial Black';
             app.GHC2022CatchingFireLabel.FontSize = 20;
             app.GHC2022CatchingFireLabel.Position = [129 435 290 27];
-            app.GHC2022CatchingFireLabel.Text = 'GHC 2022 - Catching Fire ';
+            app.GHC2022CatchingFireLabel.Text = 'Catching Fire';
 
             % Create Exercise1Label
             app.Exercise1Label = uilabel(app.CenterPanel);
